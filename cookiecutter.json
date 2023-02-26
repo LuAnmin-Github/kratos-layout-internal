@@ -1,4 +1,5 @@
 {
+    "project_name": "internal",
     "repo_name": "greeter",
     "service_name": "Greeter",
     "module_name": "github.com/go-kratos/kratos-layout",
